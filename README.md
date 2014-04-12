@@ -12,9 +12,9 @@ Written for Python 2.7, developed and tested on Win 8.1 and released under the
 Modified BSD License.
 
 In this project I've used the following:
-- Bootstrap <http://getbootstrap.com/>
-- CherryPy  <http://www.cherrypy.org/>
-- jQuery    <http://jquery.com/>
-- Skype4Py  <https://github.com/awahlig/skype4py>
+- [Bootstrap](http://getbootstrap.com/)
+- [CherryPy](http://www.cherrypy.org/)
+- [jQuery](http://jquery.com/)
+- [Skype4Py](https://github.com/awahlig/skype4py)
 
 All trademarks mentioned here are the property of their respective owners.
